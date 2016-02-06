@@ -1,1 +1,2 @@
 The grid of the sprites is 23x32
+Be careful about the background color.
